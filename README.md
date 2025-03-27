@@ -2,7 +2,7 @@
 
 ![AWS](https://img.shields.io/badge/AWS-SkillBuilder-blue?logo=amazon-aws)
 ![DevOps](https://img.shields.io/badge/DevOps-Ready-green)
-![Status](https://img.shields.io/badge/Labs%20Completed-8-brightgreen)
+![Status](https://img.shields.io/badge/Labs%20Completed-9-brightgreen)
 
 Este repositório contém os laboratórios **práticos (self-paced)** realizados na plataforma [AWS SkillBuilder](https://skillbuilder.aws).
 
