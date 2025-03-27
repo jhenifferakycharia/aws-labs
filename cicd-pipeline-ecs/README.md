@@ -1,6 +1,9 @@
 # CI/CD Pipeline com AWS CodePipeline + CodeDeploy + ECS - AWS SkillBuilder Lab
 
-![CI/CD Pipeline](./ci-cd-pipeline.png)
+![CI/CD Pipeline](.Captura de tela 2025-02-17 135900.png)
+![CI/CD Pipeline](.deployment-group.png)
+![CI/CD Pipeline](pipeline.png)
+![CI/CD Pipeline](deploy.png)
 
 ## ✅ Objetivo
 
