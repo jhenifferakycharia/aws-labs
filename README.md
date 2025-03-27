@@ -16,26 +16,35 @@ Cada pasta representa um laboratório diferente e contém:
 
 ## 📚 Índice de Labs
 
-| Lab | Serviços AWS | Link |
-|-----|----------------|------|
-| 1️⃣ Networking Concepts | VPC, EC2, SG, Route Tables | [Ver Lab](./networking-concepts) |
-| 2️⃣ Cloud Computing Essentials | Amazon S3, Bucket Policy | [Ver Lab](./cloud-computing-essentials) |
-| 3️⃣ Computing Solutions | Amazon EC2, Systems Manager | [Ver Lab](./computing-solutions) |
-| 4️⃣ Databases in Practice | Amazon RDS, Multi-AZ, Replica | [Ver Lab](./databases-in-practice) |
-| 5️⃣ File Systems in the Cloud | Amazon EFS, EC2, NFS | [Ver Lab](./file-systems-in-the-cloud) |
-| 6️⃣ First NoSQL Database | Amazon DynamoDB | [Ver Lab](./first-nosql-database) |
-| 7️⃣ Cloud Economics | Auto Scaling, EC2 Pricing | [Ver Lab](./cloud-economics) |
-| 8️⃣ Cloud First Steps | EC2, EBS, AZs | [Ver Lab](./cloud-first-steps) |
+| Nº | Lab | Caminho |
+|----|-----|---------|
+| 1️⃣ | Networking Concepts | [`networking-concepts`](./networking-concepts) |
+| 2️⃣ | Cloud Computing Essentials | [`cloud-computing-essentials`](./cloud-computing-essentials) |
+| 3️⃣ | Website Estático S3 | [`website-estatico-s3`](./website-estatico-s3) |
+| 4️⃣ | Amazon RDS | [`rds`](./rds) |
+| 5️⃣ | File Systems in the Cloud | [`elastic-file-systems`](./elastic-file-systems) |
+| 6️⃣ | First NoSQL Database | [`dynamodb`](./dynamodb) |
+| 7️⃣ | Cloud Economics | [`pricing-calculator`](./pricing-calculator) |
+| 8️⃣ | Cloud First Steps | [`cloud-first-steps`](./cloud-first-steps) |
+| 9️⃣ | CI/CD Pipeline com ECS | [`ci-cd-pipeline-ecs`](./ci-cd-pipeline-ecs) |
+| 🔟 | AWS WAF Protection | [`aws-waf-protection`](./aws-waf-protection) |
+
 
 ---
 
 ## 👨‍💻 Tecnologias Exploradas
 
-- ✅ Serviços: EC2, S3, RDS, EFS, DynamoDB, VPC
-- ✅ Conceitos: Alta disponibilidade, escalabilidade, redes, backups
-- ✅ Skills: Troubleshooting, automação, design de arquitetura, análise de custo
+- Serviços AWS: EC2, S3, VPC, RDS, EFS, DynamoDB, CloudFront, WAF, IAM
 
----
+- Ferramentas de DevOps: CodePipeline, CodeDeploy, CodeCommit, Systems Manager
+
+- Conceitos: Infraestrutura como Código, Segurança na Web, Deploy Blue/Green, NoSQL, Auto Scaling, Multi-AZ, CI/CD, Static Hosting.
+
+- Recursos de rede: Subnets, Route Tables, Security Groups, Internet Gateway
+
+- Armazenamento e banco de dados: EBS, EFS, RDS, DynamoDB
+
+
 
 
 
