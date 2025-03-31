@@ -1,5 +1,6 @@
 # Filtering and Blocking Web Incursions with AWS WAF - AWS SkillBuilder Lab
 
+![Lab AWS WAF](arquitetura lab waf.png)
 ![Lab AWS WAF](visaogeral-lab.png)
 ![Lab AWS WAF](managed-rules.png)
 ![Lab AWS WAF](request-blocked.png)

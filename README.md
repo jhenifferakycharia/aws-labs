@@ -51,9 +51,9 @@ Cada pasta representa um laboratório diferente e contém:
 
 ## 📬 Contato
 
-Caso tenha interesse em ver mais sobre meu perfil ou bater um papo sobre DevOps/Cloud:
+Caso tenha interesse em ver mais sobre meu perfil ou conversar sobre:
 
-- [LinkedIn](https://www.linkedin.com) (https://www.linkedin.com/in/jheniffer-akycharia/) 
+- [LinkedIn] (https://www.linkedin.com/in/jheniffer-akycharia/) 
 
 
 
